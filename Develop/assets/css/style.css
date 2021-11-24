@@ -119,7 +119,7 @@ p {
     text-align: center;
 } */
 
-#benefitImg  {
+.benefitImg  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
