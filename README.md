@@ -1,7 +1,6 @@
-# 01_Code_Refactor
+# 01-Code-Refactor: HTML and CSS
+## About
 ```
-01_Code Refactor: HTML and CSS
-
 This is my first assignment for the coding bootcamp.
 Learning to use HTML and CSS elements effectively to improve its accessibility.
 
@@ -33,6 +32,6 @@ THEN I find a concise, descriptive title
 ```
 
 
-## Product
+## Product Preview
 
 ![The following image shows the web application's appearance and functionality](./Assets/product-preview.png)
