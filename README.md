@@ -3,6 +3,8 @@
 01_Code Refactor: HTML and CSS
 
 This is my first assignment for the coding bootcamp.
+Learning to elements effectively to improve its accessibility.
+
 ```
 
 
