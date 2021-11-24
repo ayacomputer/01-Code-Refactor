@@ -34,4 +34,4 @@ THEN I find a concise, descriptive title
 
 ## Product Preview
 
-![The following image shows the web application's appearance and functionality](assets/images/product-preview.png)
+![The following image shows the web application's appearance and functionality](./assets/images/product-preview.png)
