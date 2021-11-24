@@ -1,6 +1,7 @@
 # 01_Code_Refactor
 ```
 01_Code Refactor: HTML and CSS
+
 This is my first assignment for the coding bootcamp.
 ```
 
@@ -32,4 +33,4 @@ THEN I find a concise, descriptive title
 
 ## Product
 
-![The following image shows the web application's appearance and functionality](/Users/ayakowoollan/development/homeworkRepo/01-Code-Refactor/Develop/assets/images/Product.png)
+![The following image shows the web application's appearance and functionality](./Assets/product-preview.png)
