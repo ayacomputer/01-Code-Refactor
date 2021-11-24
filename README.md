@@ -30,6 +30,6 @@ THEN I find a concise, descriptive title
 ```
 
 
-The following image shows the web application's appearance and functionality:
+## Product
 
-(.assets/images/Product.png)
+![The following image shows the web application's appearance and functionality](/Users/ayakowoollan/development/homeworkRepo/01-Code-Refactor/Develop/assets/images/Product.png)
